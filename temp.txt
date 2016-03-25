@@ -1,0 +1,7 @@
+OUTPUTS 17
+2
+11
+0
+Este es el caso base
+True
+7
